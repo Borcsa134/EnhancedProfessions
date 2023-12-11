@@ -1,0 +1,10 @@
+## Interface: 11500
+## Title: EnhancedProfessions
+## Notes: Enhancing the profession window
+## Author: Borcsa
+## Version: 0.1
+## SavedVariables: ModernizerDB
+
+embeds.xml
+
+EnhancedProfessions.lua
