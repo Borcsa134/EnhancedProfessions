@@ -3,7 +3,7 @@
 ## Notes: Enhancing the profession window
 ## Author: Borcsa
 ## Version: 0.1
-## SavedVariables: ModernizerDB
+## SavedVariables: EPDB
 
 embeds.xml
 
